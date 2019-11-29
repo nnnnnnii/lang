@@ -69,6 +69,7 @@ public class lang3Use {
 	}
 	
 //	public static void main(String[] args) {
+	//1
 //		String[] Array1 = new String[] {"aaa","bbb","ccc"};
 //		String[] Array2 = new String[] {"qqq","www","eee","rrr","ttt"};
 //		complex(Array1,Array2);
