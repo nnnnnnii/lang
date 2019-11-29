@@ -52,7 +52,7 @@ class lang3UseTest {
 		String[] Array12 = new String[]{"ccc","ddd","ccc","ddd"};
 		assertEquals(2,str7.complex(Array9, Array10));
 		assertEquals(2,str7.complex(Array9, Array11));
-		assertEquals(1,str7.complex(Array11, Array12));
+		assertEquals(1,str7.complex(Array11,Array12));
 	}
 
 }
